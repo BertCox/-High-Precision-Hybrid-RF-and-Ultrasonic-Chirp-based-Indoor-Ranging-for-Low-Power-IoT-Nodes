@@ -1,0 +1,58 @@
+
+
+Roomsim opened   17-Jan-2012 13:57:50
+
+
+
+Computer is a Windows PC
+MATLAB is a PC version
+Max number of array elements is 2.147484E+009 
+
+
+Using Excel spreadsheet, absorption_table.xls
+
+ Sensor directivity file =  D:\COMICS\software opgekuist\Room Configuration (D3D1-D3B1)\roomsim\SENSOR\Types\omnidirectional.mat 
+
+ roomsim_setup: Simulation data was entered manually. 
+
+
+ roomsim_setup: Setup parameters have been saved to D:\COMICS\software opgekuist\Room Configuration (D3D1-D3B1)\roomsim\Mat_setups\setup_TEST.mat
+
+ Speed of sound  c = 343 m/s 
+
+ Length (Depth) (Lx) of room =   6.25 m
+ Width (Ly) of room =   3.75 m
+ Height (Lz) of room =   2.50 m
+
+ RT60 estimate: Air absorption makes  3.79 percent difference in this room.
+
+ Reverberation Times by Norris_Eyring estimator
+ At frequency =    125 Hz RT60 =   0.1907 s
+ At frequency =    250 Hz RT60 =   0.1907 s
+ At frequency =    500 Hz RT60 =   0.2728 s
+ At frequency =   1000 Hz RT60 =   0.2721 s
+ At frequency =   2000 Hz RT60 =   0.1891 s
+ At frequency =   4000 Hz RT60 =   0.2628 s
+
+ Estimate of Room break frequencies (uses mean of above RT60's =   0.2297 s),
+ F1 =     55 Hz. Lowest room mode, i.e. below F1 no resonant support for sound in room
+ Between F1 and F2 room modes dominate
+ F2 =    118 Hz. Approximate cutoff (crossover) frequency
+ Between F2 and F3 diffraction and diffusion dominate
+ F3 =    474 Hz. Above F3 specular reflections and ray acoustics are valid
+
+ Impulse response length = 10486 samples
+
+ order_x = 8
+ order_y = 10
+ order_z = 10
+
+ Receiver =  one_mic
+ azim_off =   0.00 deg
+ elev_off =   0.00 deg
+ roll_off =   0.00 deg
+ Receiver offsets are forced to zero for single sensor case
+
+ Number of Images = 32213 for Source 1 . Time taken was  14.16 seconds
+
+ Impulse response saved to file ROOM_IMPULSE 
