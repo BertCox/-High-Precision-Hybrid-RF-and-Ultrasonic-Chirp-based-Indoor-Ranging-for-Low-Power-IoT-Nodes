@@ -1,0 +1,3002 @@
+<node>
+	<mic>
+        <posx>  0.000 </posx>
+        <posy>  0.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.100 </posx>
+        <posy>  0.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.200 </posx>
+        <posy>  0.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.300 </posx>
+        <posy>  0.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.400 </posx>
+        <posy>  0.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.500 </posx>
+        <posy>  0.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.600 </posx>
+        <posy>  0.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.700 </posx>
+        <posy>  0.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.800 </posx>
+        <posy>  0.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.900 </posx>
+        <posy>  0.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.000 </posx>
+        <posy>  0.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.100 </posx>
+        <posy>  0.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.200 </posx>
+        <posy>  0.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.300 </posx>
+        <posy>  0.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.400 </posx>
+        <posy>  0.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.500 </posx>
+        <posy>  0.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.600 </posx>
+        <posy>  0.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.700 </posx>
+        <posy>  0.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.800 </posx>
+        <posy>  0.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.900 </posx>
+        <posy>  0.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.000 </posx>
+        <posy>  0.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.100 </posx>
+        <posy>  0.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.200 </posx>
+        <posy>  0.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.300 </posx>
+        <posy>  0.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.400 </posx>
+        <posy>  0.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.500 </posx>
+        <posy>  0.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.600 </posx>
+        <posy>  0.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.700 </posx>
+        <posy>  0.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.800 </posx>
+        <posy>  0.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.900 </posx>
+        <posy>  0.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.000 </posx>
+        <posy>  0.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.100 </posx>
+        <posy>  0.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.200 </posx>
+        <posy>  0.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.300 </posx>
+        <posy>  0.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.400 </posx>
+        <posy>  0.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.500 </posx>
+        <posy>  0.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.600 </posx>
+        <posy>  0.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.700 </posx>
+        <posy>  0.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.800 </posx>
+        <posy>  0.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.900 </posx>
+        <posy>  0.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.000 </posx>
+        <posy>  0.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.100 </posx>
+        <posy>  0.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.200 </posx>
+        <posy>  0.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.300 </posx>
+        <posy>  0.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.400 </posx>
+        <posy>  0.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.500 </posx>
+        <posy>  0.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.600 </posx>
+        <posy>  0.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.700 </posx>
+        <posy>  0.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.800 </posx>
+        <posy>  0.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.900 </posx>
+        <posy>  0.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.000 </posx>
+        <posy>  0.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.100 </posx>
+        <posy>  0.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.200 </posx>
+        <posy>  0.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.300 </posx>
+        <posy>  0.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.400 </posx>
+        <posy>  0.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.500 </posx>
+        <posy>  0.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.600 </posx>
+        <posy>  0.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.700 </posx>
+        <posy>  0.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.800 </posx>
+        <posy>  0.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.900 </posx>
+        <posy>  0.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.000 </posx>
+        <posy>  0.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.100 </posx>
+        <posy>  0.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.200 </posx>
+        <posy>  0.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.300 </posx>
+        <posy>  0.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.400 </posx>
+        <posy>  0.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.500 </posx>
+        <posy>  0.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.600 </posx>
+        <posy>  0.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.700 </posx>
+        <posy>  0.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.800 </posx>
+        <posy>  0.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.900 </posx>
+        <posy>  0.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.000 </posx>
+        <posy>  0.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.100 </posx>
+        <posy>  0.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.200 </posx>
+        <posy>  0.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.300 </posx>
+        <posy>  0.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.400 </posx>
+        <posy>  0.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.500 </posx>
+        <posy>  0.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.600 </posx>
+        <posy>  0.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.700 </posx>
+        <posy>  0.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.800 </posx>
+        <posy>  0.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.900 </posx>
+        <posy>  0.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.000 </posx>
+        <posy>  0.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.100 </posx>
+        <posy>  0.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.200 </posx>
+        <posy>  0.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.300 </posx>
+        <posy>  0.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.400 </posx>
+        <posy>  0.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.500 </posx>
+        <posy>  0.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.600 </posx>
+        <posy>  0.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.700 </posx>
+        <posy>  0.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.800 </posx>
+        <posy>  0.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.900 </posx>
+        <posy>  0.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.000 </posx>
+        <posy>  0.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.100 </posx>
+        <posy>  0.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.200 </posx>
+        <posy>  0.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.300 </posx>
+        <posy>  0.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.400 </posx>
+        <posy>  0.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.500 </posx>
+        <posy>  0.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.600 </posx>
+        <posy>  0.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.700 </posx>
+        <posy>  0.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.800 </posx>
+        <posy>  0.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.900 </posx>
+        <posy>  0.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.000 </posx>
+        <posy>  0.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.100 </posx>
+        <posy>  0.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.200 </posx>
+        <posy>  0.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.300 </posx>
+        <posy>  0.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.400 </posx>
+        <posy>  0.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.500 </posx>
+        <posy>  0.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.600 </posx>
+        <posy>  0.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.700 </posx>
+        <posy>  0.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.800 </posx>
+        <posy>  0.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.900 </posx>
+        <posy>  0.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.000 </posx>
+        <posy>  0.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.100 </posx>
+        <posy>  0.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.200 </posx>
+        <posy>  0.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.300 </posx>
+        <posy>  0.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.400 </posx>
+        <posy>  0.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.500 </posx>
+        <posy>  0.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.600 </posx>
+        <posy>  0.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.700 </posx>
+        <posy>  0.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.800 </posx>
+        <posy>  0.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.900 </posx>
+        <posy>  0.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.000 </posx>
+        <posy>  0.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.100 </posx>
+        <posy>  0.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.200 </posx>
+        <posy>  0.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.300 </posx>
+        <posy>  0.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.400 </posx>
+        <posy>  0.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.500 </posx>
+        <posy>  0.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.600 </posx>
+        <posy>  0.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.700 </posx>
+        <posy>  0.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.800 </posx>
+        <posy>  0.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.900 </posx>
+        <posy>  0.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.000 </posx>
+        <posy>  0.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.100 </posx>
+        <posy>  0.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.200 </posx>
+        <posy>  0.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.300 </posx>
+        <posy>  0.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.400 </posx>
+        <posy>  0.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.500 </posx>
+        <posy>  0.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.600 </posx>
+        <posy>  0.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.700 </posx>
+        <posy>  0.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.800 </posx>
+        <posy>  0.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.900 </posx>
+        <posy>  0.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.000 </posx>
+        <posy>  0.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.100 </posx>
+        <posy>  0.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.200 </posx>
+        <posy>  0.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.300 </posx>
+        <posy>  0.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.400 </posx>
+        <posy>  0.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.500 </posx>
+        <posy>  0.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.600 </posx>
+        <posy>  0.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.700 </posx>
+        <posy>  0.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.800 </posx>
+        <posy>  0.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.900 </posx>
+        <posy>  0.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.000 </posx>
+        <posy>  0.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.100 </posx>
+        <posy>  0.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.200 </posx>
+        <posy>  0.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.300 </posx>
+        <posy>  0.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.400 </posx>
+        <posy>  0.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.500 </posx>
+        <posy>  0.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.600 </posx>
+        <posy>  0.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.700 </posx>
+        <posy>  0.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.800 </posx>
+        <posy>  0.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.900 </posx>
+        <posy>  0.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.000 </posx>
+        <posy>  0.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.100 </posx>
+        <posy>  0.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.200 </posx>
+        <posy>  0.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.300 </posx>
+        <posy>  0.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.400 </posx>
+        <posy>  0.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.500 </posx>
+        <posy>  0.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.600 </posx>
+        <posy>  0.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.700 </posx>
+        <posy>  0.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.800 </posx>
+        <posy>  0.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.900 </posx>
+        <posy>  0.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.000 </posx>
+        <posy>  0.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.100 </posx>
+        <posy>  0.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.200 </posx>
+        <posy>  0.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.300 </posx>
+        <posy>  0.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.400 </posx>
+        <posy>  0.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.500 </posx>
+        <posy>  0.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.600 </posx>
+        <posy>  0.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.700 </posx>
+        <posy>  0.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.800 </posx>
+        <posy>  0.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.900 </posx>
+        <posy>  0.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.000 </posx>
+        <posy>  0.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.100 </posx>
+        <posy>  0.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.200 </posx>
+        <posy>  0.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.300 </posx>
+        <posy>  0.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.400 </posx>
+        <posy>  0.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.500 </posx>
+        <posy>  0.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.600 </posx>
+        <posy>  0.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.700 </posx>
+        <posy>  0.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.800 </posx>
+        <posy>  0.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.900 </posx>
+        <posy>  0.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.000 </posx>
+        <posy>  0.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.100 </posx>
+        <posy>  0.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.200 </posx>
+        <posy>  0.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.300 </posx>
+        <posy>  0.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.400 </posx>
+        <posy>  0.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.500 </posx>
+        <posy>  0.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.600 </posx>
+        <posy>  0.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.700 </posx>
+        <posy>  0.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.800 </posx>
+        <posy>  0.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.900 </posx>
+        <posy>  0.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.000 </posx>
+        <posy>  0.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.100 </posx>
+        <posy>  0.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.200 </posx>
+        <posy>  0.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.300 </posx>
+        <posy>  0.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.400 </posx>
+        <posy>  0.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.500 </posx>
+        <posy>  0.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.600 </posx>
+        <posy>  0.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.700 </posx>
+        <posy>  0.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.800 </posx>
+        <posy>  0.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.900 </posx>
+        <posy>  0.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.000 </posx>
+        <posy>  0.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.100 </posx>
+        <posy>  0.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.200 </posx>
+        <posy>  0.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.300 </posx>
+        <posy>  0.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.400 </posx>
+        <posy>  0.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.500 </posx>
+        <posy>  0.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.600 </posx>
+        <posy>  0.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.700 </posx>
+        <posy>  0.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.800 </posx>
+        <posy>  0.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.900 </posx>
+        <posy>  0.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.000 </posx>
+        <posy>  0.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.100 </posx>
+        <posy>  0.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.200 </posx>
+        <posy>  0.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.300 </posx>
+        <posy>  0.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.400 </posx>
+        <posy>  0.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.500 </posx>
+        <posy>  0.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.600 </posx>
+        <posy>  0.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.700 </posx>
+        <posy>  0.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.800 </posx>
+        <posy>  0.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.900 </posx>
+        <posy>  0.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.000 </posx>
+        <posy>  0.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.100 </posx>
+        <posy>  0.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.200 </posx>
+        <posy>  0.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.300 </posx>
+        <posy>  0.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.400 </posx>
+        <posy>  0.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.500 </posx>
+        <posy>  0.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.600 </posx>
+        <posy>  0.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.700 </posx>
+        <posy>  0.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.800 </posx>
+        <posy>  0.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.900 </posx>
+        <posy>  0.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.000 </posx>
+        <posy>  0.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.100 </posx>
+        <posy>  0.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.200 </posx>
+        <posy>  0.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.300 </posx>
+        <posy>  0.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.400 </posx>
+        <posy>  0.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.500 </posx>
+        <posy>  0.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.600 </posx>
+        <posy>  0.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.700 </posx>
+        <posy>  0.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.800 </posx>
+        <posy>  0.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.900 </posx>
+        <posy>  0.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.000 </posx>
+        <posy>  0.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.100 </posx>
+        <posy>  0.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.200 </posx>
+        <posy>  0.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.300 </posx>
+        <posy>  0.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.400 </posx>
+        <posy>  0.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.500 </posx>
+        <posy>  0.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.600 </posx>
+        <posy>  0.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.700 </posx>
+        <posy>  0.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.800 </posx>
+        <posy>  0.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.900 </posx>
+        <posy>  0.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.000 </posx>
+        <posy>  0.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.100 </posx>
+        <posy>  0.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.200 </posx>
+        <posy>  0.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.300 </posx>
+        <posy>  0.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.400 </posx>
+        <posy>  0.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.500 </posx>
+        <posy>  0.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.600 </posx>
+        <posy>  0.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.700 </posx>
+        <posy>  0.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.800 </posx>
+        <posy>  0.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.900 </posx>
+        <posy>  0.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.000 </posx>
+        <posy>  0.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.100 </posx>
+        <posy>  0.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.200 </posx>
+        <posy>  0.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.300 </posx>
+        <posy>  0.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.400 </posx>
+        <posy>  0.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.500 </posx>
+        <posy>  0.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.600 </posx>
+        <posy>  0.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.700 </posx>
+        <posy>  0.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.800 </posx>
+        <posy>  0.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.900 </posx>
+        <posy>  0.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.000 </posx>
+        <posy>  0.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.100 </posx>
+        <posy>  0.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.200 </posx>
+        <posy>  0.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.300 </posx>
+        <posy>  0.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.400 </posx>
+        <posy>  0.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.500 </posx>
+        <posy>  0.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.600 </posx>
+        <posy>  0.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.700 </posx>
+        <posy>  0.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.800 </posx>
+        <posy>  0.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.900 </posx>
+        <posy>  0.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.000 </posx>
+        <posy>  0.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.100 </posx>
+        <posy>  0.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.200 </posx>
+        <posy>  0.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.300 </posx>
+        <posy>  0.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.400 </posx>
+        <posy>  0.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.500 </posx>
+        <posy>  0.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.600 </posx>
+        <posy>  0.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.700 </posx>
+        <posy>  0.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.800 </posx>
+        <posy>  0.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.900 </posx>
+        <posy>  0.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.000 </posx>
+        <posy>  1.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.100 </posx>
+        <posy>  1.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.200 </posx>
+        <posy>  1.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.300 </posx>
+        <posy>  1.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.400 </posx>
+        <posy>  1.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.500 </posx>
+        <posy>  1.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.600 </posx>
+        <posy>  1.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.700 </posx>
+        <posy>  1.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.800 </posx>
+        <posy>  1.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.900 </posx>
+        <posy>  1.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.000 </posx>
+        <posy>  1.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.100 </posx>
+        <posy>  1.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.200 </posx>
+        <posy>  1.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.300 </posx>
+        <posy>  1.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.400 </posx>
+        <posy>  1.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.500 </posx>
+        <posy>  1.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.600 </posx>
+        <posy>  1.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.700 </posx>
+        <posy>  1.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.800 </posx>
+        <posy>  1.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.900 </posx>
+        <posy>  1.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.000 </posx>
+        <posy>  1.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.100 </posx>
+        <posy>  1.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.200 </posx>
+        <posy>  1.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.300 </posx>
+        <posy>  1.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.400 </posx>
+        <posy>  1.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.500 </posx>
+        <posy>  1.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.600 </posx>
+        <posy>  1.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.700 </posx>
+        <posy>  1.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.800 </posx>
+        <posy>  1.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.900 </posx>
+        <posy>  1.000 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.000 </posx>
+        <posy>  1.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.100 </posx>
+        <posy>  1.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.200 </posx>
+        <posy>  1.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.300 </posx>
+        <posy>  1.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.400 </posx>
+        <posy>  1.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.500 </posx>
+        <posy>  1.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.600 </posx>
+        <posy>  1.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.700 </posx>
+        <posy>  1.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.800 </posx>
+        <posy>  1.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.900 </posx>
+        <posy>  1.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.000 </posx>
+        <posy>  1.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.100 </posx>
+        <posy>  1.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.200 </posx>
+        <posy>  1.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.300 </posx>
+        <posy>  1.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.400 </posx>
+        <posy>  1.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.500 </posx>
+        <posy>  1.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.600 </posx>
+        <posy>  1.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.700 </posx>
+        <posy>  1.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.800 </posx>
+        <posy>  1.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.900 </posx>
+        <posy>  1.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.000 </posx>
+        <posy>  1.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.100 </posx>
+        <posy>  1.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.200 </posx>
+        <posy>  1.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.300 </posx>
+        <posy>  1.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.400 </posx>
+        <posy>  1.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.500 </posx>
+        <posy>  1.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.600 </posx>
+        <posy>  1.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.700 </posx>
+        <posy>  1.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.800 </posx>
+        <posy>  1.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.900 </posx>
+        <posy>  1.100 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.000 </posx>
+        <posy>  1.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.100 </posx>
+        <posy>  1.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.200 </posx>
+        <posy>  1.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.300 </posx>
+        <posy>  1.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.400 </posx>
+        <posy>  1.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.500 </posx>
+        <posy>  1.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.600 </posx>
+        <posy>  1.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.700 </posx>
+        <posy>  1.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.800 </posx>
+        <posy>  1.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.900 </posx>
+        <posy>  1.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.000 </posx>
+        <posy>  1.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.100 </posx>
+        <posy>  1.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.200 </posx>
+        <posy>  1.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.300 </posx>
+        <posy>  1.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.400 </posx>
+        <posy>  1.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.500 </posx>
+        <posy>  1.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.600 </posx>
+        <posy>  1.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.700 </posx>
+        <posy>  1.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.800 </posx>
+        <posy>  1.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.900 </posx>
+        <posy>  1.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.000 </posx>
+        <posy>  1.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.100 </posx>
+        <posy>  1.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.200 </posx>
+        <posy>  1.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.300 </posx>
+        <posy>  1.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.400 </posx>
+        <posy>  1.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.500 </posx>
+        <posy>  1.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.600 </posx>
+        <posy>  1.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.700 </posx>
+        <posy>  1.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.800 </posx>
+        <posy>  1.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.900 </posx>
+        <posy>  1.200 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.000 </posx>
+        <posy>  1.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.100 </posx>
+        <posy>  1.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.200 </posx>
+        <posy>  1.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.300 </posx>
+        <posy>  1.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.400 </posx>
+        <posy>  1.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.500 </posx>
+        <posy>  1.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.600 </posx>
+        <posy>  1.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.700 </posx>
+        <posy>  1.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.800 </posx>
+        <posy>  1.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.900 </posx>
+        <posy>  1.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.000 </posx>
+        <posy>  1.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.100 </posx>
+        <posy>  1.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.200 </posx>
+        <posy>  1.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.300 </posx>
+        <posy>  1.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.400 </posx>
+        <posy>  1.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.500 </posx>
+        <posy>  1.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.600 </posx>
+        <posy>  1.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.700 </posx>
+        <posy>  1.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.800 </posx>
+        <posy>  1.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.900 </posx>
+        <posy>  1.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.000 </posx>
+        <posy>  1.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.100 </posx>
+        <posy>  1.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.200 </posx>
+        <posy>  1.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.300 </posx>
+        <posy>  1.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.400 </posx>
+        <posy>  1.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.500 </posx>
+        <posy>  1.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.600 </posx>
+        <posy>  1.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.700 </posx>
+        <posy>  1.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.800 </posx>
+        <posy>  1.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.900 </posx>
+        <posy>  1.300 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.000 </posx>
+        <posy>  1.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.100 </posx>
+        <posy>  1.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.200 </posx>
+        <posy>  1.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.300 </posx>
+        <posy>  1.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.400 </posx>
+        <posy>  1.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.500 </posx>
+        <posy>  1.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.600 </posx>
+        <posy>  1.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.700 </posx>
+        <posy>  1.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.800 </posx>
+        <posy>  1.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.900 </posx>
+        <posy>  1.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.000 </posx>
+        <posy>  1.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.100 </posx>
+        <posy>  1.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.200 </posx>
+        <posy>  1.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.300 </posx>
+        <posy>  1.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.400 </posx>
+        <posy>  1.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.500 </posx>
+        <posy>  1.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.600 </posx>
+        <posy>  1.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.700 </posx>
+        <posy>  1.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.800 </posx>
+        <posy>  1.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.900 </posx>
+        <posy>  1.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.000 </posx>
+        <posy>  1.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.100 </posx>
+        <posy>  1.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.200 </posx>
+        <posy>  1.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.300 </posx>
+        <posy>  1.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.400 </posx>
+        <posy>  1.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.500 </posx>
+        <posy>  1.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.600 </posx>
+        <posy>  1.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.700 </posx>
+        <posy>  1.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.800 </posx>
+        <posy>  1.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.900 </posx>
+        <posy>  1.400 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.000 </posx>
+        <posy>  1.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.100 </posx>
+        <posy>  1.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.200 </posx>
+        <posy>  1.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.300 </posx>
+        <posy>  1.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.400 </posx>
+        <posy>  1.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.500 </posx>
+        <posy>  1.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.600 </posx>
+        <posy>  1.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.700 </posx>
+        <posy>  1.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.800 </posx>
+        <posy>  1.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.900 </posx>
+        <posy>  1.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.000 </posx>
+        <posy>  1.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.100 </posx>
+        <posy>  1.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.200 </posx>
+        <posy>  1.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.300 </posx>
+        <posy>  1.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.400 </posx>
+        <posy>  1.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.500 </posx>
+        <posy>  1.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.600 </posx>
+        <posy>  1.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.700 </posx>
+        <posy>  1.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.800 </posx>
+        <posy>  1.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.900 </posx>
+        <posy>  1.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.000 </posx>
+        <posy>  1.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.100 </posx>
+        <posy>  1.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.200 </posx>
+        <posy>  1.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.300 </posx>
+        <posy>  1.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.400 </posx>
+        <posy>  1.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.500 </posx>
+        <posy>  1.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.600 </posx>
+        <posy>  1.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.700 </posx>
+        <posy>  1.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.800 </posx>
+        <posy>  1.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.900 </posx>
+        <posy>  1.500 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.000 </posx>
+        <posy>  1.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.100 </posx>
+        <posy>  1.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.200 </posx>
+        <posy>  1.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.300 </posx>
+        <posy>  1.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.400 </posx>
+        <posy>  1.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.500 </posx>
+        <posy>  1.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.600 </posx>
+        <posy>  1.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.700 </posx>
+        <posy>  1.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.800 </posx>
+        <posy>  1.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.900 </posx>
+        <posy>  1.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.000 </posx>
+        <posy>  1.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.100 </posx>
+        <posy>  1.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.200 </posx>
+        <posy>  1.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.300 </posx>
+        <posy>  1.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.400 </posx>
+        <posy>  1.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.500 </posx>
+        <posy>  1.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.600 </posx>
+        <posy>  1.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.700 </posx>
+        <posy>  1.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.800 </posx>
+        <posy>  1.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.900 </posx>
+        <posy>  1.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.000 </posx>
+        <posy>  1.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.100 </posx>
+        <posy>  1.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.200 </posx>
+        <posy>  1.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.300 </posx>
+        <posy>  1.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.400 </posx>
+        <posy>  1.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.500 </posx>
+        <posy>  1.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.600 </posx>
+        <posy>  1.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.700 </posx>
+        <posy>  1.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.800 </posx>
+        <posy>  1.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.900 </posx>
+        <posy>  1.600 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.000 </posx>
+        <posy>  1.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.100 </posx>
+        <posy>  1.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.200 </posx>
+        <posy>  1.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.300 </posx>
+        <posy>  1.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.400 </posx>
+        <posy>  1.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.500 </posx>
+        <posy>  1.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.600 </posx>
+        <posy>  1.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.700 </posx>
+        <posy>  1.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.800 </posx>
+        <posy>  1.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.900 </posx>
+        <posy>  1.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.000 </posx>
+        <posy>  1.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.100 </posx>
+        <posy>  1.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.200 </posx>
+        <posy>  1.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.300 </posx>
+        <posy>  1.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.400 </posx>
+        <posy>  1.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.500 </posx>
+        <posy>  1.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.600 </posx>
+        <posy>  1.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.700 </posx>
+        <posy>  1.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.800 </posx>
+        <posy>  1.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.900 </posx>
+        <posy>  1.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.000 </posx>
+        <posy>  1.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.100 </posx>
+        <posy>  1.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.200 </posx>
+        <posy>  1.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.300 </posx>
+        <posy>  1.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.400 </posx>
+        <posy>  1.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.500 </posx>
+        <posy>  1.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.600 </posx>
+        <posy>  1.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.700 </posx>
+        <posy>  1.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.800 </posx>
+        <posy>  1.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.900 </posx>
+        <posy>  1.700 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.000 </posx>
+        <posy>  1.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.100 </posx>
+        <posy>  1.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.200 </posx>
+        <posy>  1.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.300 </posx>
+        <posy>  1.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.400 </posx>
+        <posy>  1.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.500 </posx>
+        <posy>  1.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.600 </posx>
+        <posy>  1.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.700 </posx>
+        <posy>  1.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.800 </posx>
+        <posy>  1.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.900 </posx>
+        <posy>  1.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.000 </posx>
+        <posy>  1.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.100 </posx>
+        <posy>  1.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.200 </posx>
+        <posy>  1.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.300 </posx>
+        <posy>  1.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.400 </posx>
+        <posy>  1.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.500 </posx>
+        <posy>  1.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.600 </posx>
+        <posy>  1.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.700 </posx>
+        <posy>  1.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.800 </posx>
+        <posy>  1.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.900 </posx>
+        <posy>  1.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.000 </posx>
+        <posy>  1.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.100 </posx>
+        <posy>  1.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.200 </posx>
+        <posy>  1.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.300 </posx>
+        <posy>  1.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.400 </posx>
+        <posy>  1.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.500 </posx>
+        <posy>  1.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.600 </posx>
+        <posy>  1.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.700 </posx>
+        <posy>  1.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.800 </posx>
+        <posy>  1.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.900 </posx>
+        <posy>  1.800 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.000 </posx>
+        <posy>  1.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.100 </posx>
+        <posy>  1.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.200 </posx>
+        <posy>  1.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.300 </posx>
+        <posy>  1.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.400 </posx>
+        <posy>  1.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.500 </posx>
+        <posy>  1.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.600 </posx>
+        <posy>  1.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.700 </posx>
+        <posy>  1.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.800 </posx>
+        <posy>  1.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  0.900 </posx>
+        <posy>  1.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.000 </posx>
+        <posy>  1.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.100 </posx>
+        <posy>  1.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.200 </posx>
+        <posy>  1.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.300 </posx>
+        <posy>  1.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.400 </posx>
+        <posy>  1.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.500 </posx>
+        <posy>  1.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.600 </posx>
+        <posy>  1.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.700 </posx>
+        <posy>  1.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.800 </posx>
+        <posy>  1.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  1.900 </posx>
+        <posy>  1.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.000 </posx>
+        <posy>  1.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.100 </posx>
+        <posy>  1.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.200 </posx>
+        <posy>  1.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.300 </posx>
+        <posy>  1.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.400 </posx>
+        <posy>  1.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.500 </posx>
+        <posy>  1.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.600 </posx>
+        <posy>  1.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.700 </posx>
+        <posy>  1.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.800 </posx>
+        <posy>  1.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+	<mic>
+        <posx>  2.900 </posx>
+        <posy>  1.900 </posy>
+        <posz>  0.000 </posz>
+    </mic>
+</node>

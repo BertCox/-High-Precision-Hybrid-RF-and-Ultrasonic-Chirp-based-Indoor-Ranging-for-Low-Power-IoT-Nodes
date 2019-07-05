@@ -1,0 +1,23 @@
+<room>
+    <v> 340 </v>       
+    <fs> 196000 </fs>   
+    <length> 6 </length>
+    <width> 4 </width>
+    <height> 2.5 </height>
+    
+    <soundsource>
+        <posx> 2.95 </posx>
+        <posy> 1.90 </posy>
+        <posz> 1.00 </posz>
+        <file>chirp45khz25khz196.wav</file>
+        <start> 0.00 </start>   
+    </soundsource>
+    
+    <node>
+        <type>quarterRoom_node</type>
+        <posx> 3.00 </posx>
+        <posy> 2.00 </posy>
+        <posz> 1.0 </posz>
+        <rotateXY> 0.00 </rotateXY>
+    </node>
+</room>
